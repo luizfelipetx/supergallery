@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SuperGalleryLib</string>
+    <string name="l_album_name_all">Todos</string>
+    <string name="l_album_name_camera">Camera</string>
+    <string name="l_album_name_download">Donwloads</string>
+    <string name="l_album_name_screen_shot">Screenshots</string>
+
+</resources>
